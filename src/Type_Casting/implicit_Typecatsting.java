@@ -1,4 +1,4 @@
-package Variable_package;
+package Type_Casting;
 
 public class implicit_Typecatsting {
 
