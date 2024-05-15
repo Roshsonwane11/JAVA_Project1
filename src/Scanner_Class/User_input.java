@@ -9,7 +9,7 @@ public class User_input {
 		System.out.println("Enter a number");
 		
 		int  number=sc.nextInt();
-		
+		//AND && CONDITON check if fasle, then it will go next statement
 		if(number%3==0 && number%5==0) {
 			
 			System.out.println("HAHAHAHAH");
@@ -31,7 +31,6 @@ public class User_input {
 /*
  * if else channing
  
-//all condition run nhi hogi kabi bi always check 1st condition
 And && = Returns true if both statements are true. if(a<b && a%2==0)
 OR || = 	Returns true if one of the statements is true if(a<b && a%2==0)
 

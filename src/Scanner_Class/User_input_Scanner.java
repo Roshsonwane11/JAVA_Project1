@@ -17,7 +17,7 @@ public class User_input_Scanner {
 			System.out.println("b is greater than a");
 		}
      
-		
+		//Scanner class using String
 		System.out.println("Enter a String");
 		String s =sc.next(); // word : no space
 		String t = sc.nextLine();// sentence with space
@@ -31,7 +31,7 @@ public class User_input_Scanner {
 /*
 Scanner class use to take imput from user
 import packge :import java.util.Scanner;
-Put construture: Scanner sc = new Scanner(System.in);
+Put construture: Scanner sc = new Scanner(System.in); //system.in represnt console
 user Input: int  a= sc.nextInt(), b =sc.nextInt();
 
 nextBoolean()	Reads a boolean value from the user

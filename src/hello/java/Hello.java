@@ -14,6 +14,8 @@ public class Hello {
 		 
 		    byte a = 30;
 		    System.out.println("value of a =" +  a);
+		    
+		    System.out.println('5'+'6');
 
 	}
 
