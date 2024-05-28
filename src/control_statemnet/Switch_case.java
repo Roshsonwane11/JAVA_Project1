@@ -10,7 +10,7 @@ public class Switch_case {
 		
 		int digit = sc.nextInt();// digit are single number
 		/*
-		switch(digit){
+		switch(digit){ //things to match
 			case 0:System.out.println("ZERO");
 			break;
 			case 1 :System.out.println("ONE");

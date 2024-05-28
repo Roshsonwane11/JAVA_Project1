@@ -9,6 +9,7 @@ public class Prime_num {
 	    Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number:");
         int n = sc.nextInt();
+        
         int i = 2;
         boolean flag = false;
         while (i <= n / 2) {
