@@ -9,7 +9,7 @@ public class Switch_case {
 		System.out.println("Enter a number");
 		
 		int digit = sc.nextInt();// digit are single number
-		/*
+		
 		switch(digit){ //things to match
 			case 0:System.out.println("ZERO");
 			break;
@@ -25,9 +25,10 @@ public class Switch_case {
 		    break;
 		    default:System.out.println("Invalid Digit");
 		}
-		*/
+		
 		
 	//code using  else if statement
+		/*
 		if (digit==0) {
 			System.out.println("ZERO");
 		}else if(digit==1) {
@@ -45,7 +46,8 @@ public class Switch_case {
 		}else {
 		     System.out.println("Invalid Digit");
 		}
-    }
+    }*/
+}
 }
 
 /*

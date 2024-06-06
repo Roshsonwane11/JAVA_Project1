@@ -9,10 +9,10 @@ public class For_Loop2 {
 			if(i<=10) {
 			System.out.println("Hii_" + i);
 			
-		}/*
+		}
 			else {
 			break;
-		}*/
+		}
 		}
 
 	}

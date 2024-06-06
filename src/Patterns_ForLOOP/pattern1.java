@@ -1,5 +1,10 @@
 package Patterns_ForLOOP;
-
+/*
+*
+**
+***
+****  
+*/
 public class pattern1 {
 
 	public static void main(String[] args) {
