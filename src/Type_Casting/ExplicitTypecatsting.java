@@ -43,9 +43,9 @@ public class ExplicitTypecatsting {
 		System.out.println( "mm " + m);
 		
 		
-		float pp = 10.4f;
+		float pp = 10.11f;
 		int f = (int)pp;
-		System.out.println(pp);
+		System.out.println("float" +f);
 		
 		long  kf = 17783398332l;
 		
@@ -57,12 +57,16 @@ public class ExplicitTypecatsting {
         //convert Unicode numeric value to alphabhet 
         int i2 = 65;
         char c23= (char)i2;
-        System.out.println(i2);
+        System.out.println(c23);
 		
         //its give unicode value
         char jj= 2309;
 		System.out.println(jj);
 		
+		System.out.println("hi");
+		char aaav= 1;
+		int bbbc =aaav;
+		System.out.println("**"+ bbbc);
 		
 	}
 

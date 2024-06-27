@@ -2,7 +2,7 @@ package Programs;
 
 import java.util.Scanner;
 
-public class Print_even_num {
+public class Even_num {
 
 	public static void main(String[] args) {
 	

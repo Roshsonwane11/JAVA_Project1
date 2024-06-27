@@ -6,7 +6,8 @@ public class Do_while {
 		
 		do {
 			System.out.println("Hello"); //its check ation 1sr and then condition check
-		}while(false);
+		   
+		}while (true); // Continue looping until a valid password is entered
 
 	}
 
